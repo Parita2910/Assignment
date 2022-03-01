@@ -1,0 +1,249 @@
+Question 1
+What were the main contributing factors to the Dot-Com Bubble Burst?
+Correct Answers:	 
+pets.com closing
+Micrsoft being ruled guility of Monopolization
+Barron's featured a cover article titled "Burning Up; Warning: Internet companies are running out of cash—fast"
+The Y2K Bug
+
+Question 2
+What does the acronym TCO stand for in the context of this course?
+Correct Answer:	Total Cost of Ownership
+
+Question 3
+What does the acronym SAN stand for in the context of Cloud Computing?
+Correct Answer:	Storage Area Network
+
+Question 4
+What was one of the main contributing factors to the Y2K Bug
+Correct Answer:	Programmers saved memory by only using 2 digits to encode dates
+
+Question 5
+Why would a Cloud Provider company opt to mainly go with Virutalization over strictly renting out entire servers?
+Correct Answers:	
+Allows easier tracking of resource usage for billing purposes
+Allows a single server to share it's resources with mutliple virtual servers
+Allows coordination and managment of all virutal servers on the network
+Allows for the seemless creation of virtual servers via an API endpoint
+
+Question 1
+As of 2022, which is currently the larged Cloud Provider in the world?
+Correct Answer:	Amazon Web Services
+
+Question 2
+As defined by our lecture, what does the acronym CRAC stand for? 
+Correct Answer:	Computer Room Air Conditioner
+
+Question 3
+According to this course, which of the follow are types of clouds? 
+Correct Answers:	
+Private Cloud
+Hybrid Cloud
+Public Cloud
+
+Question 4
+According to this course, as of 2022 which services does Microsoft Azure currently offer?
+Correct Answers:	
+PaaS
+IaaS
+SaaS
+
+Question 5
+According to this course, as of 2022 which services does DigitalOcean currently offer?
+Correct Answers:IaaS
+
+Question 1
+Using a Caesar Cipher with a shift of 17 decypher the following (case and space sensitive):
+Correct Answer:	universally unique identifier	
+
+Question 2
+Using a Caesar Cipher with a shift of 13 decypher the following (case and space sensitive):
+jr ner qvfpbirerq syrr ng bapr
+Correct Answer:	we are discovered flee at once	
+
+Question 3
+Using a Caesar Cipher with a shift of 24 decypher the following (case and space sensitive):
+rfc osgai zpmul dmv hsknq mtcp rfc jyxw bme
+Correct Answer:	the quick brown fox jumps over the lazy dog	
+
+Question 4
+Using a Caesar Cipher with a shift of 8 decypher the following (case and space sensitive):
+aguumbzqk smg mvkzgxbqwv
+Correct Answer:	symmetric key encryption	
+
+Question 5
+Using a Caesar Cipher with a shift of 7 decypher the following (case and space sensitive):
+jyfwavnyhwopj ohzo mbujapvu
+
+Correct Answer:	cryptographic hash function
+	
+Question 6
+Using a Caesar Cipher with a shift of 3 decypher the following (case and space sensitive):
+Correct Answer:	reveals a hidden meaning
+	
+Question 7
+Using a Caesar Cipher with a shift of 12 decypher the following (case and space sensitive):
+purruq-tqxxymz qjotmzsq
+Correct Answer:	diffie-hellman exchange	
+
+Question 8
+Using a Caesar Cipher with a shift of 5 decypher the following (case and space sensitive):
+mnij xtrjymnsl ns uqfns xnlmy
+Correct Answer:	hide something in plain sight
+	
+Question 9
+Using a Caesar Cipher with a shift of 9 decypher the following (case and space sensitive):
+jbhvvncarl tnh nwlahycrxw
+Correct Answer:	asymmetric key encryption
+	
+Question 10
+Using a Caesar Cipher with a shift of 7 decypher the following (case and space sensitive):
+wo'unsbp tnsd'uhmo jaobsob y'sflo dnho'uhns moahnu
+Correct Answer:	ph'nglui mglw'nafh cthulhu r'lyeh wgah'nagl fhtagn
+
+
+Question 1
+As defined by our course, match the following:
+
+
+Input/Output Operations Per Second: IOPS
+Hard Disk Drive:  HDD
+Solid State Drive: SSD
+Elastic Block Storage: EBS
+
+Question 2
+As defined by our course, the acronym RISC stands for ________	Reduced Instruction Set Computer	
+
+Question 3
+As defined by our course, a ______ is another guest operating system that's consuming too many system resources on a shared host Hypervisor.
+Correct Answer:	noisy neighbour	
+
+Question 4
+As defined by our course, a _______ is a virtual machine that is kept in lock step in another availablity zone.
+Correct Answer:	hot spare
+	
+Question 5
+As defined by our course, the acronym CISC stands for ________.
+Correct Answer:	Complex Instruction Set Computer	
+
+Question 6
+As defined by our course, FLOSS Stands for ________ (including the slash).
+Correct Answer:	Free/Libre Open Source Software	
+
+Question 7
+As defined by our course, what is a Type 2 Hypervisor?	
+Correct Answer:A Hypervisor that installs inside a Host Operating System
+
+Question 8
+As defined by our course, what is a Type 1 Hypervisor?
+Correct Answer:	A Hypervisor that installs onto Bare Metal
+
+Question 9
+As defined by our course, the acronym VM stands for ________.
+Correct Answer:	Virtual machine	
+
+Question 10
+As defined by our course, what is a Emulator Hypervisor?
+Correct Answer:	A Hypervisor that only supports a specific set of hardware
+
+Question 1
+The Linux Kernel was started by ____________________?
+Correct Answer:	Linus Torvalds	
+
+Question 2
+A ________________________ is a collection of software tools that automate the process of installing, upgrading, configuring and removing computer programs. 
+Correct Answer:	package manager	
+
+Question 3
+Where would we use VIM most often?
+Correct Answer:	When editing files remotely on a server.
+
+Question 4
+A __________________ file system keeps track of changes in a journal before committing them to the main filesystem. 
+Correct Answer:	journaled	
+
+Question 5
+Which of the following is NOT one of the three Linux kernels?
+Correct Answer:	Megalithic
+
+Question 6
+Which of these is NOT a package manager?
+Correct Answer:	BSB
+
+Question 7
+The __________________________ keeps track of read and write requests from the individual file system implementations and the physical devices.
+Correct Answer:	buffer cache	
+
+Question 8
+This cell type has a write capacity of 10,000 Planar and 35,000 3D NAND
+Correct Answer:	MLC
+
+Question 9
+If the object a symbolic link is pointed to is moved, the symbolic link will break.
+Correct Answer: True
+
+Question 10
+In data redundancy, which RAID is the safest to use?
+Correct Answer:	Raid 6
+
+Question 1
+5 out of 5 points
+
+According to our class, match the following symbols with their names
+
+!  Bang
+~  Tilde
+|  Pipe
+-  Tack
+
+Question 2
+According to our class, match the following written permission with the numerical representation
+u=rwx,g=rwx,o-rwx   770
+u=r,g-rwx,o-rwx     400
+r-rwx,g=rx,o-rwx    050
+a=rwx               777
+
+Question 3
+According to our class, which permission bit is required to be set for a script to be able to run?
+Correct Answer:	Execute Bit
+
+Question 4
+According to our class, what does BASH stand for?
+Correct Answer:	Bourne-Again-Shell
+
+Question 5
+According to our class, match the following commands with what their function is
+ls  			 list all contents of the folder in alphabetical order
+man <COMMAND>   	 Will display the manually for the command that is being supplied as an argument
+less			Allows paging through text one screen at a time
+cp <file> <file_destination> Copies a file from source to target
+
+Question 6
+According to our class, if a program or script exits with an exit code of greater than 0 that meants it was succesfull?
+Correct Answer:	 False
+
+Question 7
+According to our class, match the following permission short hands to their meaning
+r		read permission
+w		write permission
+x		execute permission
+-		no permission
+
+Question 8
+According to our class, which are the following are standard streams?
+Correct Answers:	 
+Standard Output (stdout)
+Standard Input (stdin)
+Standard Error (stderr)
+
+Question 9
+According to our class, which of the following are groups of permissions on a file?
+Correct Answers: Other Permissions
+		User Permissions
+		Group Permissions
+
+Question 10
+According to our class, this special character ____ is used to catch the previously ran commands Exit Code
+Correct Answer:	$?
+
+ 
